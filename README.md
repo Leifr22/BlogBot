@@ -55,7 +55,7 @@ BlogBot/
     pip install -r requirements.txt
     ```
 
-3. **Создай файл `.env` в корне:**
+3. **Напиши токен бота в файле `.env` в корне:**
     ```bash
     BOT_TOKEN=your_token_here
     API_URL=http://localhost:8000
